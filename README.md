@@ -1,0 +1,1 @@
+This repository contains my solutions to the Project Euler challenges. They are numbered according to the challenges to which they correspond.
